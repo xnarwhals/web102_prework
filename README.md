@@ -26,7 +26,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='./assets/website.gif' title='Video Walkthrough' width='200px' alt='Video Walkthrough' />
+<img src='./assets/website.gif' title='Video Walkthrough' width='500px' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with https://ezgif.com
